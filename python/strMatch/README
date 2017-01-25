@@ -1,0 +1,8 @@
+string matching is very useful,and there are many algorithms.
+some algorithms easy to understand but has big time complexity.
+such as brute force,horspool,sunday,these algorithm has a big
+time complexity( O(M*N)),but sometimes it is faster than some liner time
+complexity algoritm,when m is small or string has a low repeatability(
+such as word matching).
+other algorithm,like kmp, is suitable for stirng has high repeatability(
+such as gentic matching).
